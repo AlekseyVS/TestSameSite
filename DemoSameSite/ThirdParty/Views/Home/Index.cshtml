@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model RedirectModel
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+   <form action="@Model.Url" method="post">
+       <input type="hidden" name="redirectValue" value="123"/>
+       <input type="submit" value="press"/>
+   </form>
+</div>
