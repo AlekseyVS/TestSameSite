@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\DemoSameSite\\AuthApp\\AuthApp.csproj": {}
+    "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\AuthApp.csproj": {}
   },
   "projects": {
-    "C:\\My\\DemoSameSite\\AuthApp\\AuthApp.csproj": {
+    "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\AuthApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\DemoSameSite\\AuthApp\\AuthApp.csproj",
+        "projectUniqueName": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\AuthApp.csproj",
         "projectName": "AuthApp",
-        "projectPath": "C:\\My\\DemoSameSite\\AuthApp\\AuthApp.csproj",
+        "projectPath": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\AuthApp.csproj",
         "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\DemoSameSite\\AuthApp\\obj\\",
+        "outputPath": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

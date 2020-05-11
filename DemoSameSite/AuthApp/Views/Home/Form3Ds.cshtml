@@ -1,10 +1,12 @@
 ﻿
 @{
     ViewData["Title"] = "Form3Ds";
+    var url = $"{Context.Request.Scheme}://{Context.Request.Host}{Url.Action("Check3Ds", "Home")}";
 }
 
 <h2>Form3Ds</h2>
 
-<form action="https://localhost:44354" method="get">
+<form action="https://thirdparty" method="post">
+    <input type="hidden" name="postbackurl" value="@url"/>
     <input type="submit" value="press"/>
 </form>

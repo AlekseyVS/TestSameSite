@@ -7,7 +7,6 @@ namespace AuthApp.Controllers
 
     public class HomeController : Controller
     {
-        // [AllowAnonymous]
         [Authorize(Roles = "admin,user")]
         public IActionResult Index()
         {
@@ -28,9 +27,9 @@ namespace AuthApp.Controllers
 
         [AllowAnonymous]
         [HttpPost]
-        public IActionResult Check3Ds([FromBody]string redirectValue)
+        public IActionResult Check3Ds([FromForm]string redirectValue)
         {
-            return View();
+            return RedirectToAction("Form3Ds", "Home");
         }
     }
 }

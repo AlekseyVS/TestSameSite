@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\DemoSameSite\\ThirdParty\\ThirdParty.csproj": {}
+    "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\ThirdParty\\ThirdParty.csproj": {}
   },
   "projects": {
-    "C:\\My\\DemoSameSite\\ThirdParty\\ThirdParty.csproj": {
+    "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\ThirdParty\\ThirdParty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\DemoSameSite\\ThirdParty\\ThirdParty.csproj",
+        "projectUniqueName": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\ThirdParty\\ThirdParty.csproj",
         "projectName": "ThirdParty",
-        "projectPath": "C:\\My\\DemoSameSite\\ThirdParty\\ThirdParty.csproj",
+        "projectPath": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\ThirdParty\\ThirdParty.csproj",
         "packagesPath": "C:\\Users\\Aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\DemoSameSite\\ThirdParty\\obj\\",
+        "outputPath": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\ThirdParty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

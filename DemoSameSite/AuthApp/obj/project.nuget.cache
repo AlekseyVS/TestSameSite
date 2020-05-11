@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HLjhiT+wQE9WjilMkrcISXAZGH4Woxhc0ty3y1IxhQf3qx3HmLeFRbw7w/C7LGvt/D4oztbZaVwTux50jd0eYA==",
+  "dgSpecHash": "YLTH9yy6cjE8W3azOmYkQWkIe35zsB5wPu0JSH4AA3ycgt8tfjL3unkXzO7cVbsXnNMZqmb6uZOSsDtbShQrBw==",
   "success": true,
-  "projectFilePath": "C:\\My\\DemoSameSite\\AuthApp\\AuthApp.csproj",
+  "projectFilePath": "C:\\Users\\Aleks\\source\\repos\\TestSameSite\\DemoSameSite\\AuthApp\\AuthApp.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
